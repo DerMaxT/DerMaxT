@@ -1,4 +1,4 @@
-# ![peepoHey](https://cdn.betterttv.net/emote/619887d054f3344f88067a2e/2x) Welcome to my GitHub profile!
+# ![peepoHey](https://cdn.betterttv.net/emote/6121c3d076ea4e2b9f78a013/2x) Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on my private Discord Bot.
 - 🌱 I’m currently learning managing kubernetes clusters.<!-- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
